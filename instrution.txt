@@ -1,2 +1,5 @@
 Download:
 pip install pygame
+
+To play:
+Unzip the zip file
